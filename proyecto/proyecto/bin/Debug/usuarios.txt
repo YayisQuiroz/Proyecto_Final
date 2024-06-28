@@ -1,0 +1,3 @@
+QUIROZ6,QWERTY,Diana Quiroz,True
+CANARIO33,qwerty,Jesus canario,False
+LasVegas22,qwerty,Mariana Vega,False

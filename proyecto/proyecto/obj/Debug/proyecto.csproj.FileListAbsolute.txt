@@ -1,0 +1,15 @@
+C:\Users\MARIANA\source\repos\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\MARIANA\source\repos\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\MARIANA\source\repos\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.Registro.resources
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\MARIANA\source\repos\proyecto\proyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARIANA\source\repos\proyecto\proyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.Up2Date
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.Pantalla.resources
+C:\Users\MARIANA\source\repos\proyecto\proyecto\obj\Debug\proyecto.Inicio.resources
